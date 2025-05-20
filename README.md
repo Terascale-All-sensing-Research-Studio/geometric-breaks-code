@@ -1,4 +1,4 @@
-# data-prep
+# Geometric Breaks: Code to produce fractured models
 
 Code tested using Ubutnu 18.04 and python 3.8.0.
 Note that you need to have the following apt dependencies installed. 
