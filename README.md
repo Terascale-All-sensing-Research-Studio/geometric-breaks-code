@@ -1,6 +1,5 @@
 # Geometric Breaks: Code to produce fractured models
 
-Code tested using Ubutnu 18.04 and python 3.8.0.
 Note that you need to have the following apt dependencies installed. 
 ```bash
 sudo apt install python3.8-distutils python3.8-dev libgl1 libglew-dev freeglut3-dev
